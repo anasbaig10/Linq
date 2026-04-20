@@ -50,7 +50,6 @@ app.get('/health', (_req: Request, res: Response) => {
 app.post('/webhook', (req: Request, res: Response) => {
   res.sendStatus(200);
   const event = req.body as WebhookEvent;
-  console.log('[webhook] event_type:', event.event_type, JSON.stringify(event.data).slice(0, 200));
   processEvent(event).catch((err) => console.error('[webhook] error:', err));
 });
 

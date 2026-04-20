@@ -580,10 +580,6 @@ export async function handleFoodMessage(sub: Subscriber, text: string): Promise<
       radius,
     });
 
-    if (source === 'google') {
-      console.log(`[google-fallback] Yelp had no results for "${term}" in "${location}" — using Google Places`);
-    }
-
     // ── Auto-fallback when zero results from both ─────────────────────────
     if (businesses.length === 0) {
       await sendMessage(chatId, {
