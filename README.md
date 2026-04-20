@@ -6,6 +6,12 @@ Built for the Linq Partner API tech challenge. Powered by Yelp Fusion, Google Pl
 
 ---
 
+## Demo
+
+[![Demo Video](https://img.shields.io/badge/Watch%20Demo-MP4-blue?style=for-the-badge)](https://github.com/anasbaig10/Linq/releases/download/v1.0/demo.mp4)
+
+---
+
 ## What It Does
 
 Text the bot like you'd text a friend. It finds restaurants, filters results using AI, fetches real photos and reviews, and can plan your entire evening — all without leaving iMessage.
