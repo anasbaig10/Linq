@@ -8,7 +8,7 @@ Built for the Linq Partner API tech challenge. Powered by Yelp Fusion, Google Pl
 
 ## Demo
 
-[![Demo Video](https://img.shields.io/badge/Watch%20Demo-MP4-blue?style=for-the-badge)](https://github.com/anasbaig10/Linq/releases/download/v1.0/demo.mp4)
+[![Demo Video](https://img.shields.io/badge/Watch%20Demo-MP4-blue?style=for-the-badge)](https://github.com/anasbaig10/Linq/releases/download/v1.0/AI-Powered.Restaurant.Reservation.System.Demo.mp4)
 
 ---
 
